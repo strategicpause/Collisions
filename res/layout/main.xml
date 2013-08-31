@@ -4,5 +4,5 @@
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
     >
-<edu.csuci.collisiontest.CollisionTestView android:id="@+id/collision_test_view" android:layout_height="fill_parent" android:layout_width="fill_parent" />
+<net.nickpeters.collisions.CollisionsView android:id="@+id/collision_test_view" android:layout_height="fill_parent" android:layout_width="fill_parent" />
 </LinearLayout>
